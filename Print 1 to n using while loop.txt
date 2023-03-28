@@ -1,0 +1,14 @@
+Print 1 to n using while loop
+
+count = 0
+while (count < 5):
+    count = count + 1
+    print("niveditha")
+
+output:
+niveditha
+niveditha
+niveditha
+niveditha
+niveditha
+

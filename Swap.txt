@@ -1,0 +1,13 @@
+Swapping of 2 num
+ x = 10
+y = 50
+ temp = x
+x = y
+y = temp
+ 
+print("Value of x:", x)
+print("Value of y:", y)
+
+Output: 
+('Value of x:', 50)
+('Value of y:', 10)

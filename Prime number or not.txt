@@ -1,0 +1,15 @@
+Prime number or not
+
+if("is Prime(11)") : 
+    print(" true") 
+else : 
+    print(" false") 
+        
+if("is Prime(24)") : 
+    print(" false") 
+else :  
+    print(" true")
+
+Output:
+ true
+ false

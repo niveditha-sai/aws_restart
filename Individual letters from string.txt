@@ -1,0 +1,19 @@
+Individual letters from string:
+string = "niveditha" 
+print("Individual characters from given string: ") 
+   
+for i in range(0, len(string)):  
+    print(string[i]) 
+
+Output:
+Individual characters from given string:
+n
+i
+v
+e
+d
+i
+t
+h
+a
+

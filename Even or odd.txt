@@ -1,0 +1,8 @@
+Even or odd
+x = 8
+if x % 2 == 0:
+    print(x,"Is Even Number")
+else:
+    print(x, "Is Odd Number")
+
+Output: (8, 'Is Even Number')
